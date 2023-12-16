@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color blue
+drawable baseline_bluetooth_24
+drawable baseline_person_search_24
+id cardView
+id cardView2
+id checkBox
+id guideline
+id imageBluetoothOn
+id imageBluetoothSearch
+id mac
+id name
+id pbSearch
+id placeHolder
+id rcViewPaired
+id rcViewSearch
+id tvEmptyPaired
+id tvEmptySearch
+id tvPaired
+id tvSearch
+layout activity_base
+layout fragment_list
+layout list_item
+string empty
+string hello_blank_fragment
+string paired_devices
+string search_devices

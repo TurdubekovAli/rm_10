@@ -1,0 +1,43 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.rm_10" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+6
+7    <uses-permission android:name="android.permission.BLUETOOTH" />
+7-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:4:5-68
+7-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:4:22-65
+8    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+8-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:5:5-74
+8-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:5:22-71
+9    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" />
+9-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:6:5-73
+9-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:6:22-70
+10    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+10-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:7:5-76
+10-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:7:22-73
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:8:5-81
+11-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:8:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:9:5-79
+12-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:9:22-76
+13
+14    <application>
+14-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:11:5-19:19
+15        <activity
+15-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:12:9-18:20
+16            android:name="com.example.rm_10.BaseActivity"
+16-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:13:13-41
+17            android:exported="false" >
+17-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:14:13-37
+18            <meta-data
+18-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:15:13-17:35
+19                android:name="android.app.lib_name"
+19-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:16:17-52
+20                android:value="" />
+20-->/home/user/AndroidStudioProjects/rm_10/src/main/AndroidManifest.xml:17:17-33
+21        </activity>
+22    </application>
+23
+24</manifest>
